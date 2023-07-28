@@ -1,4 +1,4 @@
-let lengthOfLongestSubstring = function (s) {
+var lengthOfLongestSubstring = function (s) {
   let sLen = s.length,
     maxLen = 0,
     maxStr = "",
